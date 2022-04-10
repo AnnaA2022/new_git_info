@@ -24,4 +24,9 @@
 и чтобы использовать 
 > git gheckout master
 
+Чтобы создать ветку, нужно:
+>git branch branch_name
+
+Для просмотра всех веток, нужно:
+>git branch
 ![какая-то картинка](wa.jpg)
