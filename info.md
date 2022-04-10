@@ -29,4 +29,8 @@
 
 Для просмотра всех веток, нужно:
 >git branch
+
+Для перехода к ветке branch_name:
+>git checkout branch_name
+
 ![какая-то картинка](wa.jpg)
